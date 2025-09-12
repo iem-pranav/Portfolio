@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Rock-Paper-Scissors Game",
+    title: "Movie App",
     description: "A beautiful landing page app using React and Tailwind",
-    image: "/projects/rock-paper-scissors-project.png",
-    tags: ["HTML" , "CSS" , "JavaScript"],
-    demoUrl: "https://iem-pranav.github.io/rock-paper-scissors/",
-    githubUrl: "https://github.com/iem-pranav/rock-paper-scissors",
+    image: "/projects/movie-app-project",
+    tags: ["React" , "CSS" , "JavaScript"],
+    demoUrl: "https://movie-app-rho-virid-21.vercel.app/",
+    githubUrl: "https://github.com/iem-pranav/Movie-App",
   },
   {
     id: 2,
