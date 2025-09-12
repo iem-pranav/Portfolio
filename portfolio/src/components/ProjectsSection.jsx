@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Movie App",
     description: "A beautiful landing page app using React and Tailwind",
-    image: "/projects/movie-app-project",
+    image: "/projects/movie-app-project.png",
     tags: ["React" , "CSS" , "JavaScript"],
     demoUrl: "https://movie-app-rho-virid-21.vercel.app/",
     githubUrl: "https://github.com/iem-pranav/Movie-App",
