@@ -3,30 +3,32 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
+    title: "Gemini",
+    description:
+      "Gemini Clone – React.js app with Google AI integration, real-time chat, content generation, and responsive UI.",
+    image: "/projects/gemini-project.png",
+    tags: ["React", "CSS", "JavaScript"],
+    demoUrl: "https://my-gemini-jyzk.onrender.com",
+    githubUrl: "https://github.com/iem-pranav/My-Gemini",
+  },
+  {
+    id: 2,
     title: "Movie App",
     description: "A beautiful landing page app using React and Tailwind",
     image: "/projects/movie-app-project.png",
-    tags: ["React" , "CSS" , "JavaScript"],
+    tags: ["React", "CSS", "JavaScript"],
     demoUrl: "https://movie-app-rho-virid-21.vercel.app/",
     githubUrl: "https://github.com/iem-pranav/Movie-App",
   },
   {
-    id: 2,
+    id: 3,
     title: "E-Commerce",
     description: "An ecommerce website build with react.js and backend",
     image: "/projects/ecommerce-project.png",
     tags: ["React", "Backend"],
-    demoUrl: "http://ecommerce-project-env.eba-bdjrsm3w.ap-south-1.elasticbeanstalk.com/",
+    demoUrl:
+      "http://ecommerce-project-env.eba-bdjrsm3w.ap-south-1.elasticbeanstalk.com/",
     githubUrl: "https://github.com/iem-pranav/E-commerce-Project",
-  },
-  {
-    id: 3,
-    title: "THE DSA ARENA",
-    description: "A beautiful landing page app using React and Tailwind",
-    image: "/projects/contest-landing-project.png",
-    tags: ["HTML" , "CSS" , "JavaScript"],
-    demoUrl: "https://iem-pranav.github.io/contest-landing-page/",
-    githubUrl: "https://github.com/iem-pranav/contest-landing-page",
   },
 ];
 
